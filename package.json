@@ -1,0 +1,17 @@
+{
+  "name": "prose-server",
+  "version": "0.0.1",
+  "description": "The serverside for Prose VOIP service.",
+  "main": "index.js",
+  "repository": "http://github.com/MattWalton12/prose-server",
+  "author": "llana digital",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "json-toolkit": "~1.1.0",
+    "jsonschema": "~0.4.0",
+    "mongoose": "~3.8.5",
+    "bcrypt-nodejs": "0.0.3",
+    "mongoose-auto-increment": "~2.1.1",
+    "MD5": "~1.2.0",
+  }
+}
